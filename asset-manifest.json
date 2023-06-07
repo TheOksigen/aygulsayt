@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/aygulsayt/static/css/main.06c6dab0.css",
+    "main.js": "/aygulsayt/static/js/main.92e42f24.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aygulsayt/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pexels-ann-poan-5797999.jpg": "/aygulsayt/static/media/pexels-ann-poan-5797999.c82c8cefbc568ccb2f60.jpg",
+    "static/media/mrs2.png": "/aygulsayt/static/media/mrs2.19d4361d7c72ad3c3179.png",
+    "static/media/tempsnip.png": "/aygulsayt/static/media/tempsnip.6fc9090f7ba3b7227586.png",
+    "static/media/mrs1.png": "/aygulsayt/static/media/mrs1.d4fbd758f931e42d4d70.png",
+    "static/media/mrs3.png": "/aygulsayt/static/media/mrs3.1eb346cfd5abc44aa8d9.png",
+    "static/media/girls.avif": "/aygulsayt/static/media/girls.4e6db142db2e3a14f23f.avif",
+    "static/media/mrs4.png": "/aygulsayt/static/media/mrs4.2a76a354081e16e7c278.png",
+    "static/media/coolmom.avif": "/aygulsayt/static/media/coolmom.ca412eae9bffa69d211a.avif",
+    "static/media/blogimg.jpg": "/aygulsayt/static/media/blogimg.78fa6de2fda08761dc5e.jpg",
+    "static/media/sale2.jpg": "/aygulsayt/static/media/sale2.50c8ba93d4077ad82b0e.jpg",
+    "static/media/Logowhite.png": "/aygulsayt/static/media/Logowhite.f18a73f85d0edeace56c.png",
+    "static/media/logoend.png": "/aygulsayt/static/media/logoend.e714c3da407351bf7b7d.png",
+    "static/media/muck.JPG": "/aygulsayt/static/media/muck.301df1ff8a3a4cf9b9b0.JPG",
+    "static/media/sale1.jpg": "/aygulsayt/static/media/sale1.8b16f7501a6221e44ecf.jpg",
+    "static/media/formula.avif": "/aygulsayt/static/media/formula.0fb986413b980f209af0.avif",
+    "static/media/new.svg": "/aygulsayt/static/media/new.c844ef62c6c1e893ee81c5e7ea8442d1.svg",
+    "static/media/minis.svg": "/aygulsayt/static/media/minis.315260a70ddddb6c75b1a856e8af77a4.svg",
+    "static/media/vegan.svg": "/aygulsayt/static/media/vegan.a07d042efa5978ca14e6dee000509bf4.svg",
+    "static/media/trip.svg": "/aygulsayt/static/media/trip.fdd89592ec497a0e3585e46481dbb5ff.svg",
+    "index.html": "/aygulsayt/index.html",
+    "static/media/Icon_Vegan.svg": "/aygulsayt/static/media/Icon_Vegan.78c79404f0119e018c36c6290d0bbe06.svg",
+    "static/media/avatar.webp": "/aygulsayt/static/media/avatar.5c0c3f35a98b043d4397.webp",
+    "main.06c6dab0.css.map": "/aygulsayt/static/css/main.06c6dab0.css.map",
+    "main.92e42f24.js.map": "/aygulsayt/static/js/main.92e42f24.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aygulsayt/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c6dab0.css",
+    "static/js/main.92e42f24.js"
+  ]
+}
